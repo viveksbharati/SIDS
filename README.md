@@ -41,7 +41,7 @@ boto3 v1.12.16
 
 ## Running the code
 
-I have provided the code for the data preparation (data generation / resizing), training the model,  and running the model with the webcam as a Jupyter notebook. The code snippets within the notebook could be executed as independent python3 executables within an environment with the above packages installed. 
+The code for the data preparation (data generation / resizing), training the model,  and running the model with the webcam has been provided as a Jupyter notebook. The code snippets within the notebook could be executed as independent python3 executables within an environment with the above packages installed. 
 
 ## Pretrained model
 
