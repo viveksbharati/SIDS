@@ -49,7 +49,7 @@ Pretrained models are provided within the models folder(directory). If a new mod
 
 ## Training
 
-The Jupyter notebook contains the code to train the model with a new data set.   The training data (images of babies that conform to different classifications) are to be placed in the stipulated folders. 
+The Jupyter notebook contains the code for training the model with a new data set.   The training data (images of babies that conform to different classifications) are to be placed in the stipulated folders. 
    
 ### Step 1:  Preparing the data - Generate Images
 
