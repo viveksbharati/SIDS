@@ -2,7 +2,7 @@
 
 This is the code for the paper
 
-**[An Efficient Convolutional Neural Network Computer Vision System to Prevent Sudden Infant Death Syndrome](https://engrxiv.org/wbx63/)**,
+**[An Efficient Convolutional Neural Network Computer Vision System to Prevent Sudden Infant Death Syndrome (SIDS)](https://engrxiv.org/wbx63/)** 
 <br>
 [Vivek S Bharati](mailto:viveksbharati@gmail.com)
 
