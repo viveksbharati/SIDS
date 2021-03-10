@@ -8,7 +8,8 @@ This is the code for the paper
 
 
 
-The paper addresses the problem of **Sudden Infant Death Syndrome (SIDS)** that causes infants under one year of age to die inexplicably. One of the most important external factors responsible for the syndrome, called an ‘outside stressor’, is the sleeping position of the baby. When the baby sleeps on the stomach with face down, the risk of SIDS occurring is very high. A CNN model capable of detecting the hazardous face-down sleeping position and alerting the caregivers. Here is a sample of sleeping positions captured by the camera and the classification out of the mode.
+The paper addresses the problem of **Sudden Infant Death Syndrome (SIDS)** that causes infants under one year of age to die inexplicably. One of the most important external factors responsible for the syndrome, called an ‘outside stressor’, is the sleeping position of the baby. When the baby sleeps on the stomach with face down, the risk of SIDS occurring is very high. A CNN model capable of detecting the hazardous face-down sleeping position and alerting the caregivers. Here is a sample of sleeping positions captured by the camera and the classification out of the mode. 
+
 
 <img src='imgs/postions.JPG'>
 
